@@ -41,4 +41,4 @@ system_instruction="""
 <br>
 
 ### 4. 실행 예시
-
+<img src="./실행 예시.png" alt="실행 예시" width="800"/>
